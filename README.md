@@ -6,3 +6,8 @@ I also wrote several helper tools along the way to help me understand some of th
 
 Everything in here is the code leading up to my first succesful go at having dynamic lighting.
 I had started a rewrite, but that is not included yet in this repo, and had very little progress made before work became my primary focus.
+
+No build script yet, was building manually using msvc compiler at the time.
+
+## Screenshot:
+![image](https://user-images.githubusercontent.com/45133114/133732705-014fe446-5ac4-4845-9cf3-f102fbfdc047.png)
